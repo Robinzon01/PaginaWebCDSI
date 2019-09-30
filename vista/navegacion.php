@@ -41,10 +41,18 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" href="?pagina=alianzas">Alianzas</a>
+            </li>            
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Demostraciones
+              </a>
+              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio1">
+                <a class="dropdown-item" href="?pagina=demos">Medianas y Grandes Empresas</a>
+                <a class="dropdown-item" href="?pagina=demos1">Pymes - Pequeñas Empresas</a>
+                <a class="dropdown-item" href="?pagina=demos2">Mypes - MicroEmpresa</a>
+              </div>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="?pagina=demos">Demos</a>
-            </li>
+
             <li class="nav-item">
               <a class="nav-link" href="?pagina=regAct">Usuario</a>
             </li>

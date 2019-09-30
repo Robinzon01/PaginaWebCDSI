@@ -35,7 +35,7 @@
                     <div class="row">
                               <div class="col-md-6">   
                                   <a href="../archivo/DemoProduc.exe" target="_blank" class="btn btn-block btn-outline-primary" title="Click para Descargar .exe" >
-                                  <img src="https://img.icons8.com/officel/80/000000/deployment.png"> Producción</a>
+                                  <img src="https://img.icons8.com/bubbles/100/000000/short-hair-girl-with-glasses-product-box.png"> Producción</a>
                               </div>
                               <div class="col-md-6">
                                   <a href="../archivo/PCPE-PRODUCCION.pdf" target="_blank" class="btn btn-block btn-outline-danger" title="Click para Descargar .pdf" >
