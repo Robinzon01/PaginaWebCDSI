@@ -1,0 +1,54 @@
+
+  
+    [
+      {
+        "usuarioid": "1",
+        "nombre": "José Lujan",
+        "twitter": "joseLujan"
+      },
+      {
+        "usuarioid": "2",
+        "nombre": "Robinzon",
+        "twitter": "robin01"
+      },
+      {
+        "usuarioid": "3",
+        "nombre": "Emma",
+        "twitter": "emmaBaez"
+      },
+      {
+        "usuarioid": "4",
+        "nombre": "Cintya",
+        "twitter": "cintya01"
+      },
+      {
+        "usuarioid": "5",
+        "nombre": "Jesus",
+        "twitter": "Conde123"
+      },
+      {
+        "usuarioid": "6",
+        "nombre": "Carlos",
+        "twitter": "Carlos000"
+      },
+      {
+        "usuarioid": "7",
+        "nombre": "Roberto",
+        "twitter": "Carlos000"
+      },
+      {
+        "usuarioid": "8",
+        "nombre": "Sheyla",
+        "twitter": "Sheyla0011"
+      },
+      {
+        "usuarioid": "9",
+        "nombre": "Rocio",
+        "twitter": "Rocio784"
+      },  {
+        "usuarioid": "10",
+        "nombre": "Raul",
+        "twitter": "Raul0511"
+      }
+    ]
+  

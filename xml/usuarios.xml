@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usuarios>
+	<usuario>
+	  <usuarioid>1</usuarioid>
+	  <nombre>José Lujan</nombre>
+	  <twitter>joseLujan</twitter>
+	</usuario>
+	<usuario>
+	  <usuarioid>2</usuarioid>
+	  <nombre>Robinzon</nombre>
+	  <twitter>robin01</twitter>
+	</usuario>
+	<usuario>
+	  <usuarioid>3</usuarioid>
+	  <nombre>Emma</nombre>
+	  <twitter>emmaBaez</twitter>
+	</usuario>
+	<usuario>
+	  <usuarioid>4</usuarioid>
+	  <nombre>Cintya</nombre>
+	  <twitter>cintya01</twitter>
+	</usuario>
+	<usuario>
+	  <usuarioid>5</usuarioid>
+	  <nombre>Jesus</nombre>
+	  <twitter>Conde123</twitter>
+	</usuario>
+	<usuario>
+	  <usuarioid>6</usuarioid>
+	  <nombre>Carlos</nombre>
+	  <twitter>Carlos000</twitter>
+	</usuario>
+
+</usuarios>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- phpMyAdmin XML Dump
+- version 4.7.7
+- https://www.phpmyadmin.net
+-
+- Servidor: localhost:3306
+- Tiempo de generación: 14-05-2018 a las 10:14:27
+- Versión del servidor: 5.6.38
+- Versión de PHP: 5.6.30
+-->
+
+<pma_xml_export version="1.0" xmlns:pma="https://www.phpmyadmin.net/some_doc_url/">
+    <!--
+    - Structure schemas
+    -->
+    <pma:structure_schemas>
+        <pma:database name="cdsicom_web" collation="latin1_swedish_ci" charset="latin1">
+            <pma:table name="COMPANIA">
+                CREATE TABLE `COMPANIA` (
+                  `codigo` int(11) NOT NULL AUTO_INCREMENT,
+                  `razon_social` varchar(200) DEFAULT NULL,
+                  `ruc` varchar(15) DEFAULT NULL,
+                  `configuracion` varchar(50) DEFAULT NULL,
+                  PRIMARY KEY (`codigo`)
+                ) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=latin1;
+            </pma:table>
+            <pma:procedure name="VERIFICAR">
+                CREATE DEFINER=`cdsicom`@`localhost` PROCEDURE `VERIFICAR`(IN `usua` VARCHAR(8), IN `pass` VARCHAR(24), OUT `cantidad` INT)
+                BEGIN 
+                 SELECT COUNT(*) 
+                 INTO cantidad
+                 FROM usuario 
+                 WHERE codigo = usua 
+                 AND contrasena = pass; 
+                END
+            </pma:procedure>
+        </pma:database>
+    </pma:structure_schemas>
+
+    <!--
+    - Base de datos: 'cdsicom_web'
+    -->
+    <database name="cdsicom_web">
+        <!-- Tabla COMPANIA -->
+        <table name="COMPANIA">
+            <column name="codigo">1</column>
+            <column name="razon_social">HSIC</column>
+            <column name="ruc">NULL</column>
+            <column name="configuracion">h</column>
+        </table>
+        <table name="COMPANIA">
+            <column name="codigo">2</column>
+            <column name="razon_social">BRUNO</column>
+            <column name="ruc">NULL</column>
+            <column name="configuracion">b</column>
+        </table>
+        <table name="COMPANIA">
+            <column name="codigo">3</column>
+            <column name="razon_social">ESCUELA</column>
+            <column name="ruc">NULL</column>
+            <column name="configuracion">e</column>
+        </table>
+        <table name="COMPANIA">
+            <column name="codigo">4</column>
+            <column name="razon_social">HSIC F.S</column>
+            <column name="ruc">NULL</column>
+            <column name="configuracion">p</column>
+        </table>
+    </database>
+</pma_xml_export>
