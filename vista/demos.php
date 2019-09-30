@@ -25,32 +25,6 @@
 
     <div class="card mb-4">
         <div class="card-body">
-
-          <div class="row">
-                <div class="col-lg-3">
-                    <img class="img-fluid rounded" src="img/demoProduc.png" alt="">
-                    <span  class="badge badge-danger">( EDITORIAL - PAPELERIA Y OTROS )</span>
-                </div>
-                <div class="col-lg-9">
-                    <div class="row">
-                              <div class="col-md-6">   
-                                  <a href="../archivo/DemoProduc.exe" target="_blank" class="btn btn-block btn-outline-primary" title="Click para Descargar .exe" >
-                                  <img src="https://img.icons8.com/bubbles/100/000000/short-hair-girl-with-glasses-product-box.png"> Producción</a>
-                              </div>
-                              <div class="col-md-6">
-                                  <a href="../archivo/PCPE-PRODUCCION.pdf" target="_blank" class="btn btn-block btn-outline-danger" title="Click para Descargar .pdf" >
-                                  <img src="https://img.icons8.com/bubbles/100/000000/pdf-2.png"></a>                                                          
-                              </div>
-                    </div>
-                </div>
-          </div>
-          
-        </div>
-
-    </div>
-
-    <div class="card mb-4">
-        <div class="card-body">
            
 
         <div class="row">
@@ -77,6 +51,7 @@
         </div>
 
     </div>
+
     <div class="card mb-4">
         <div class="card-body">
 
@@ -103,6 +78,57 @@
         </div>
 
     </div>
+
+    <div class="card mb-4">
+        <div class="card-body">
+
+          <div class="row">
+                <div class="col-lg-3">
+                    <img class="img-fluid rounded" src="img/demoProduc.png" alt="">
+                    <span  class="badge badge-danger">( EDITORIAL - PAPELERIA Y OTROS )</span>
+                </div>
+                <div class="col-lg-9">
+                    <div class="row">
+                              <div class="col-md-6">   
+                                  <a href="../archivo/DemoProduc.exe" target="_blank" class="btn btn-block btn-outline-primary" title="Click para Descargar .exe" >
+                                  <img src="https://img.icons8.com/bubbles/100/000000/short-hair-girl-with-glasses-product-box.png"> Producción</a>
+                              </div>
+                              <div class="col-md-6">
+                                  <a href="../archivo/PCPE-PRODUCCION.pdf" target="_blank" class="btn btn-block btn-outline-danger" title="Click para Descargar .pdf" >
+                                  <img src="https://img.icons8.com/bubbles/100/000000/pdf-2.png"></a>                                                          
+                              </div>
+                    </div>
+                </div>
+          </div>
+          
+        </div>
+
+    </div>
+
+
+    <div class="card mb-4">
+        <div class="card-body">
+
+          <div class="row">
+                
+            <div class="col-md-12">
+                <div class="jumbotron">
+                    <p>
+                        Subsistemas en sede central que son <a href="?pagina=sgcor_compras" target="_blank" > COMPRAS</a>, <a href="?pagina=sgcor_importaciones" target="_blank" > IMPORTACIONES</a>
+                        , <a href="?pagina=sgcor_promocion" target="_blank" > PROMOCIÓN</a>, <a href="?pagina=sgcor_planilla" target="_blank" > PLANILLAS</a>, <a href="?pagina=sgcor_afijo" target="_blank" > ACTIVOS FIJOS</a>
+                        , <a href="?pagina=sgcor_cxc" target="_blank" > CXC</a>, <a href="?pagina=sgcor_cpagar" target="_blank" > CXP</a>, <a href="?pagina=sgcor_tesor" target="_blank" > TESORERIA(Caja-Banco)</a>,
+                        <a href="?pagina=sgcor_conta" target="_blank" > CONTABILIDAD</a>, <a href="?pagina=sgcor_gesti" target="_blank" > SIG. GESTIÓN</a>.
+                    </p>
+                    <p> Solicite su codigo de autorización para accesar a los modulos demostrativos, llamando al cel. 954691244 o´ 999974834 o email su requerimiento a ventas@cdsi.com.pe </p>
+                </div>
+            </div>
+
+          </div>
+          
+        </div>
+
+    </div>
+
 
 </div>
 
