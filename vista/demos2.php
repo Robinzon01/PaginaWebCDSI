@@ -61,7 +61,7 @@
               <div class="col-lg-9">
                   <div class="row">
                             <div class="col-md-6">   
-                                <a href="../archivo/DemoPVentaEAA.exe" target="_blank" class="btn btn-block btn-outline-primary" title="Click para Descargar .exe" >
+                                <a href="../archivo/DemoPVenta.exe" target="_blank" class="btn btn-block btn-outline-primary" title="Click para Descargar .exe" >
                                 <img src="https://img.icons8.com/plasticine/100/000000/billing-machine.png"> Punto de Venta</a>
                             </div>
                             <div class="col-md-6">
